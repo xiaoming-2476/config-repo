@@ -2,4 +2,4 @@ data:
   env: config-single-client-dev
   user:
     username: single-client-dev-user
-    password: 1234567890
+    password: 9876543210
