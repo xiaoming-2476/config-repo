@@ -1,5 +1,5 @@
 data:
   env: config-single-client-dev
   user:
-    username: single-client-user-changes
-    password: tanxiaoming
+    username: single-client-dev-user-changes
+    password: 0910310xm
