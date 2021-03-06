@@ -1,0 +1,5 @@
+data:
+  env: config-eureka-client-prod
+  user:
+    username: single-eureka-client-prod-user
+    password: 0910310xm1-eureka-prod
